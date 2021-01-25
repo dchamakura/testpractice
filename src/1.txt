@@ -1,6 +1,2 @@
 Good Evening
-<<<<<<< HEAD
 Automation
-=======
-Good morning
->>>>>>> 44726afeee19b60bb6c57b81082f7aefd6b913e4
